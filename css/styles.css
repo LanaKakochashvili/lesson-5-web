@@ -1,0 +1,56 @@
+.conteiner{
+	width:1088px;
+	margin: 0 auto;
+}
+.left-block{
+	width:536px;
+	height:190px;
+	background:#F8F8F8;
+	display: inline-block;
+	margin-right: 16px;
+}
+.right-block{
+	width:536px;
+	height:190px;
+	background:#BE2B2B;
+	display: inline-block;
+}
+.text-block{
+	width: 260px;
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 16px;
+}
+.image-block{
+	vertical-align: middle;
+}
+.title{
+	color: #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 50px;
+}
+.title2{
+	font-size: 18px;
+	font-family: 'Poppins-SemiBold';
+	padding-bottom: 10px;
+}
+.title3 {
+	font-size: 14px;
+	font-family: 'Poppins-medium';
+	color: #B1B1B1;
+}
+
+.description{
+	font-size: 42px;
+	font-family: 'Poppins-ExtraBold';
+	width: 498px;
+	margin-bottom: 50px;
+
+}
+
+/*conteiner2*/
+/*.conteiner2{*/
+	width:1088px;
+	margin: 0 auto;
+}
