@@ -50,7 +50,41 @@
 }
 
 /*conteiner2*/
-/*.conteiner2{*/
+.conteiner2{
 	width:1088px;
 	margin: 0 auto;
+}
+.left-block1{
+	width:352px;
+	height:148px;
+	background:#F8F8F8;
+	text-align: center;
+	display: inline-block;
+	margin-right: 16px;
+}
+
+.middle-block{
+	width:352px;
+	height:148px;
+	background:#F8F8F8;
+	text-align: center;
+	display: inline-block;
+	margin-right: 16px;
+}
+
+.right-block1{
+	width:300px;
+	height:148px;
+	background:#F8F8F8;
+	text-align: center;
+	display: inline-block;
+	margin-right: 16px;
+
+}
+.text-block1{
+	width:260px;
+	height: 42px;
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: 23px;
 }
