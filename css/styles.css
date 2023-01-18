@@ -1,3 +1,4 @@
+@import url("//cdn.web-fonts.ge/fonts/ka-lortkipanidze/css/ka-lortkipanidze.min.css");
 .conteiner{
 	width:1088px;
 	margin: 0 auto;
@@ -52,7 +53,9 @@
 /*conteiner2*/
 .conteiner2{
 	width:1088px;
+	height: 560px;
 	margin: 0 auto;
+
 }
 .left-block1{
 	width:352px;
@@ -87,4 +90,15 @@
 	display: inline-block;
 	vertical-align: middle;
 	padding-top: 23px;
+}
+.title-h3{
+	font-size: 18px;
+    font-family: 'BPG Mikheil Stefane';
+	padding-bottom: 10px;
+}
+.title-h4{
+ font-size: 18px;
+ padding-bottom: 10px;
+ font-family: "KA_LORTKIPANIDZE", sans-serif;
+ 
 }
